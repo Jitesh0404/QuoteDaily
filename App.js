@@ -10,12 +10,12 @@ import Navigation from "./navigation";
 import { Provider } from "react-redux";
 import { store } from "./store";
 
-import {
-  notificationListener,
-  requestUserPermission,
-  initializeFirebase,
-  getToken,
-} from "./src/utils/utils";
+// import {
+//   notificationListener,
+//   requestUserPermission,
+//   initializeFirebase,
+//   getToken,
+// } from "./src/utils/utils";
 
 export default function App() {
   /*
