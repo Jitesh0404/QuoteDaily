@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45482217720",
+    "project_id": "quote-daily-df95b",
+    "storage_bucket": "quote-daily-df95b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45482217720:android:94c076f3a7e26ce4856b0d",
+        "android_client_info": {
+          "package_name": "com.anonymous.QuoteDaily"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWy_NQR-nzlTkdzOPnXI0L0P6KwIOM3gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
